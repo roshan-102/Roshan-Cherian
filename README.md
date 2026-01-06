@@ -69,9 +69,9 @@
 <h2>🌐 Connect With Me</h2>
 
 <ul>
-  <li>🧑‍💻 GitHub: <a href="https://github.com/YOUR_USERNAME">github.com/YOUR_USERNAME</a></li>
-  <li>📧 Email: your-email@example.com</li>
-  <li>🌍 Portfolio: Coming Soon</li>
+  <li>🧑‍💻 GitHub: <a href="https://github.com/roshan-102">github.com/YOUR_USERNAME</a></li>
+  <li>📧 Email: roshancherian97@gmail.com</li>
+  <li>🌍 Portfolio: https://roshan-potfolio.netlify.app/</li>
 </ul>
 
 <p><em>✨ Learning every day. Building step by step.</em></p>
